@@ -154,8 +154,13 @@ ul li:hover{
 
 .gridproject h1{
     color: #66fcf1;
+    padding-top: 5px
 }
 
+.gridproject img{
+    height: 250px;
+    object-fit: cover;
+}
 
 .gridproject:hover{
     cursor: pointer;
