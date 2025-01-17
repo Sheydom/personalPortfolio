@@ -124,6 +124,11 @@ ul li:hover{
     grid-template-columns: repeat(3, 400px);
 }
 
+
+
+
+
+
 #gridcontainer a{
     text-decoration: none;
 }
@@ -147,10 +152,7 @@ ul li:hover{
 }
 /* out line removes "clicked" red border on the element */
 
-#sheylasblog{
-    width: 100%;
-    border-radius: 20% 0;
-}
+
 
 .gridproject h1{
     color: #66fcf1;
@@ -158,6 +160,8 @@ ul li:hover{
 }
 
 .gridproject img{
+    width: 100%;
+    border-radius: 20% 0;
     height: 250px;
     object-fit: cover;
 }
