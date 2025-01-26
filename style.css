@@ -74,10 +74,14 @@ ul li:hover{
     animation-timing-function: ease-in-out;
 }
 
+#welcome h1{
+    font-size: clamp(2rem, 6vw, 4rem);
+}
 
 
 #welcome p{
     color:red;
+    font-size: clamp(1rem, 3vw, 1.5rem);
 
 }
 
