@@ -1,1 +1,1 @@
-https://sheydom.github.io/personalPortofolio/
+https://sheydom.github.io/personalPortfolio/
